@@ -10,3 +10,6 @@ func main() {
 }
 
 ```
+
+Check this, much better:
+https://github.com/glycerine/bambam
